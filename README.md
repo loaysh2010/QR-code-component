@@ -1,2 +1,2 @@
 # QR-code-component
-frontend mentor challenge
+Frontend Mentor-QR code component Live URL: https://loaysh2010.github.io/QR-code-component/
